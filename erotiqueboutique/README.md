@@ -1,6 +1,6 @@
 # Creacion de APP React para tienda "Erotique Boutique"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se ha creado para cumplir las consignas en CODERHOUSE en la cursada de React JS
 
 ## Available Scripts
 
