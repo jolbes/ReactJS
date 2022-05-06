@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Creacion de APP React para tienda "Erotique Boutique"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
